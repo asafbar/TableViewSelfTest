@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C22F7C2818BFE27900D0C36E"
                BuildableName = "TableViewAelfTest.app"
-               BlueprintName = "TableViewAelfTest"
-               ReferencedContainer = "container:TableViewAelfTest.xcodeproj">
+               BlueprintName = "TableViewSelfTest"
+               ReferencedContainer = "container:TableViewSelfTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C22F7C4918BFE27900D0C36E"
                BuildableName = "TableViewAelfTestTests.xctest"
-               BlueprintName = "TableViewAelfTestTests"
-               ReferencedContainer = "container:TableViewAelfTest.xcodeproj">
+               BlueprintName = "TableViewSelfTestTests"
+               ReferencedContainer = "container:TableViewSelfTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C22F7C2818BFE27900D0C36E"
             BuildableName = "TableViewAelfTest.app"
-            BlueprintName = "TableViewAelfTest"
-            ReferencedContainer = "container:TableViewAelfTest.xcodeproj">
+            BlueprintName = "TableViewSelfTest"
+            ReferencedContainer = "container:TableViewSelfTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C22F7C2818BFE27900D0C36E"
             BuildableName = "TableViewAelfTest.app"
-            BlueprintName = "TableViewAelfTest"
-            ReferencedContainer = "container:TableViewAelfTest.xcodeproj">
+            BlueprintName = "TableViewSelfTest"
+            ReferencedContainer = "container:TableViewSelfTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C22F7C2818BFE27900D0C36E"
             BuildableName = "TableViewAelfTest.app"
-            BlueprintName = "TableViewAelfTest"
-            ReferencedContainer = "container:TableViewAelfTest.xcodeproj">
+            BlueprintName = "TableViewSelfTest"
+            ReferencedContainer = "container:TableViewSelfTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

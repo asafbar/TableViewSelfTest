@@ -77,6 +77,9 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
+                                        <connections>
+                                            <action selector="textFinished:" destination="JTd-aC-6ZB" eventType="editingDidEndOnExit" id="doX-e5-V0v"/>
+                                        </connections>
                                     </textField>
                                 </subviews>
                                 <color key="backgroundColor" red="1" green="0.49466398410143131" blue="0.78040933195521744" alpha="1" colorSpace="calibratedRGB"/>

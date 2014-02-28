@@ -36,23 +36,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C22F7C2918BFE27900D0C36E /* TableViewAelfTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewAelfTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C22F7C2918BFE27900D0C36E /* TableViewSelfTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewSelfTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C22F7C2C18BFE27900D0C36E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C22F7C2E18BFE27900D0C36E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		C22F7C3018BFE27900D0C36E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		C22F7C3418BFE27900D0C36E /* TableViewAelfTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewAelfTest-Info.plist"; sourceTree = "<group>"; };
+		C22F7C3418BFE27900D0C36E /* TableViewSelfTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewSelfTest-Info.plist"; sourceTree = "<group>"; };
 		C22F7C3618BFE27900D0C36E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C22F7C3818BFE27900D0C36E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C22F7C3A18BFE27900D0C36E /* TableViewAelfTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TableViewAelfTest-Prefix.pch"; sourceTree = "<group>"; };
+		C22F7C3A18BFE27900D0C36E /* TableViewSelfTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TableViewSelfTest-Prefix.pch"; sourceTree = "<group>"; };
 		C22F7C3B18BFE27900D0C36E /* TempAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TempAppDelegate.h; sourceTree = "<group>"; };
 		C22F7C3C18BFE27900D0C36E /* TempAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TempAppDelegate.m; sourceTree = "<group>"; };
 		C22F7C3F18BFE27900D0C36E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C22F7C4118BFE27900D0C36E /* TempViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TempViewController.h; sourceTree = "<group>"; };
 		C22F7C4218BFE27900D0C36E /* TempViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TempViewController.m; sourceTree = "<group>"; };
 		C22F7C4418BFE27900D0C36E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		C22F7C4A18BFE27900D0C36E /* TableViewAelfTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewAelfTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C22F7C4A18BFE27900D0C36E /* TableViewSelfTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewSelfTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C22F7C4B18BFE27900D0C36E /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		C22F7C5318BFE27900D0C36E /* TableViewAelfTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewAelfTestTests-Info.plist"; sourceTree = "<group>"; };
+		C22F7C5318BFE27900D0C36E /* TableViewSelfTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewSelfTestTests-Info.plist"; sourceTree = "<group>"; };
 		C22F7C5518BFE27900D0C36E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C22F7C5718BFE27900D0C36E /* TableViewAelfTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewAelfTestTests.m; sourceTree = "<group>"; };
 		C22F7C6118C11B0C00D0C36E /* TableViewControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewControl.h; sourceTree = "<group>"; };
@@ -98,8 +98,8 @@
 		C22F7C2A18BFE27900D0C36E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C22F7C2918BFE27900D0C36E /* TableViewAelfTest.app */,
-				C22F7C4A18BFE27900D0C36E /* TableViewAelfTestTests.xctest */,
+				C22F7C2918BFE27900D0C36E /* TableViewSelfTest.app */,
+				C22F7C4A18BFE27900D0C36E /* TableViewSelfTestTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -136,10 +136,10 @@
 		C22F7C3318BFE27900D0C36E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				C22F7C3418BFE27900D0C36E /* TableViewAelfTest-Info.plist */,
+				C22F7C3418BFE27900D0C36E /* TableViewSelfTest-Info.plist */,
 				C22F7C3518BFE27900D0C36E /* InfoPlist.strings */,
 				C22F7C3818BFE27900D0C36E /* main.m */,
-				C22F7C3A18BFE27900D0C36E /* TableViewAelfTest-Prefix.pch */,
+				C22F7C3A18BFE27900D0C36E /* TableViewSelfTest-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -156,7 +156,7 @@
 		C22F7C5218BFE27900D0C36E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				C22F7C5318BFE27900D0C36E /* TableViewAelfTestTests-Info.plist */,
+				C22F7C5318BFE27900D0C36E /* TableViewSelfTestTests-Info.plist */,
 				C22F7C5418BFE27900D0C36E /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -165,9 +165,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C22F7C2818BFE27900D0C36E /* TableViewAelfTest */ = {
+		C22F7C2818BFE27900D0C36E /* TableViewSelfTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C22F7C5B18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewAelfTest" */;
+			buildConfigurationList = C22F7C5B18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewSelfTest" */;
 			buildPhases = (
 				C22F7C2518BFE27900D0C36E /* Sources */,
 				C22F7C2618BFE27900D0C36E /* Frameworks */,
@@ -177,14 +177,14 @@
 			);
 			dependencies = (
 			);
-			name = TableViewAelfTest;
+			name = TableViewSelfTest;
 			productName = TableViewAelfTest;
-			productReference = C22F7C2918BFE27900D0C36E /* TableViewAelfTest.app */;
+			productReference = C22F7C2918BFE27900D0C36E /* TableViewSelfTest.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C22F7C4918BFE27900D0C36E /* TableViewAelfTestTests */ = {
+		C22F7C4918BFE27900D0C36E /* TableViewSelfTestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C22F7C5E18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewAelfTestTests" */;
+			buildConfigurationList = C22F7C5E18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewSelfTestTests" */;
 			buildPhases = (
 				C22F7C4618BFE27900D0C36E /* Sources */,
 				C22F7C4718BFE27900D0C36E /* Frameworks */,
@@ -195,9 +195,9 @@
 			dependencies = (
 				C22F7C5018BFE27900D0C36E /* PBXTargetDependency */,
 			);
-			name = TableViewAelfTestTests;
+			name = TableViewSelfTestTests;
 			productName = TableViewAelfTestTests;
-			productReference = C22F7C4A18BFE27900D0C36E /* TableViewAelfTestTests.xctest */;
+			productReference = C22F7C4A18BFE27900D0C36E /* TableViewSelfTestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -215,7 +215,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C22F7C2418BFE27900D0C36E /* Build configuration list for PBXProject "TableViewAelfTest" */;
+			buildConfigurationList = C22F7C2418BFE27900D0C36E /* Build configuration list for PBXProject "TableViewSelfTest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -228,8 +228,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C22F7C2818BFE27900D0C36E /* TableViewAelfTest */,
-				C22F7C4918BFE27900D0C36E /* TableViewAelfTestTests */,
+				C22F7C2818BFE27900D0C36E /* TableViewSelfTest */,
+				C22F7C4918BFE27900D0C36E /* TableViewSelfTestTests */,
 			);
 		};
 /* End PBXProject section */
@@ -281,7 +281,7 @@
 /* Begin PBXTargetDependency section */
 		C22F7C5018BFE27900D0C36E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C22F7C2818BFE27900D0C36E /* TableViewAelfTest */;
+			target = C22F7C2818BFE27900D0C36E /* TableViewSelfTest */;
 			targetProxy = C22F7C4F18BFE27900D0C36E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -392,9 +392,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TableViewAelfTest/TableViewAelfTest-Prefix.pch";
-				INFOPLIST_FILE = "TableViewAelfTest/TableViewAelfTest-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "TableViewAelfTest/TableViewSelfTest-Prefix.pch";
+				INFOPLIST_FILE = "TableViewAelfTest/TableViewSelfTest-Info.plist";
+				PRODUCT_NAME = TableViewSelfTest;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -405,9 +405,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TableViewAelfTest/TableViewAelfTest-Prefix.pch";
-				INFOPLIST_FILE = "TableViewAelfTest/TableViewAelfTest-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "TableViewAelfTest/TableViewSelfTest-Prefix.pch";
+				INFOPLIST_FILE = "TableViewAelfTest/TableViewSelfTest-Info.plist";
+				PRODUCT_NAME = TableViewSelfTest;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -428,8 +428,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "TableViewAelfTestTests/TableViewAelfTestTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "TableViewAelfTestTests/TableViewSelfTestTests-Info.plist";
+				PRODUCT_NAME = TableViewSelfTestTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -447,8 +447,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TableViewAelfTest/TableViewAelfTest-Prefix.pch";
-				INFOPLIST_FILE = "TableViewAelfTestTests/TableViewAelfTestTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "TableViewAelfTestTests/TableViewSelfTestTests-Info.plist";
+				PRODUCT_NAME = TableViewSelfTestTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -457,7 +457,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C22F7C2418BFE27900D0C36E /* Build configuration list for PBXProject "TableViewAelfTest" */ = {
+		C22F7C2418BFE27900D0C36E /* Build configuration list for PBXProject "TableViewSelfTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C22F7C5918BFE27900D0C36E /* Debug */,
@@ -466,7 +466,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C22F7C5B18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewAelfTest" */ = {
+		C22F7C5B18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewSelfTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C22F7C5C18BFE27900D0C36E /* Debug */,
@@ -475,7 +475,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C22F7C5E18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewAelfTestTests" */ = {
+		C22F7C5E18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewSelfTestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C22F7C5F18BFE27900D0C36E /* Debug */,

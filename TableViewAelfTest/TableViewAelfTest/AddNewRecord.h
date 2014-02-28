@@ -8,6 +8,18 @@
 
 #import <UIKit/UIKit.h>
 
+@protocol addDelegate <NSObject>
+
+- (void)userDidEnterRecord :(NSString *) record;
+
+@end
+
 @interface AddNewRecord : UIViewController
+
+
+@property (strong, nonatomic)IBOutlet UITextField *recordTextFieldText;
+@property (strong, nonatomic)id <addDelegate> delegate;
+
+-(IBAction)textFinished:(UITextField *)sender;
 
 @end

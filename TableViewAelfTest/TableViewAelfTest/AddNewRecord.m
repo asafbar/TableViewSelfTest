@@ -13,6 +13,8 @@
 @end
 
 @implementation AddNewRecord
+@synthesize recordTextFieldText;
+@synthesize delegate;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -33,6 +35,12 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+-(IBAction)textFinished:(UITextField *)sender{
+    [self.recordTextFieldText resignFirstResponder];
+    [self.delegate userDidEnterRecord:self.recordTextFieldText.text];
+    
 }
 
 @end
