@@ -22,6 +22,7 @@
 		C22F7C5618BFE27900D0C36E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C22F7C5418BFE27900D0C36E /* InfoPlist.strings */; };
 		C22F7C5818BFE27900D0C36E /* TableViewAelfTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C22F7C5718BFE27900D0C36E /* TableViewAelfTestTests.m */; };
 		C22F7C6318C11B0C00D0C36E /* TableViewControl.m in Sources */ = {isa = PBXBuildFile; fileRef = C22F7C6218C11B0C00D0C36E /* TableViewControl.m */; };
+		C2DA096918C14F020048F4DB /* AddNewRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = C2DA096818C14F020048F4DB /* AddNewRecord.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		C22F7C5718BFE27900D0C36E /* TableViewAelfTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewAelfTestTests.m; sourceTree = "<group>"; };
 		C22F7C6118C11B0C00D0C36E /* TableViewControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewControl.h; sourceTree = "<group>"; };
 		C22F7C6218C11B0C00D0C36E /* TableViewControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewControl.m; sourceTree = "<group>"; };
+		C2DA096718C14F020048F4DB /* AddNewRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddNewRecord.h; sourceTree = "<group>"; };
+		C2DA096818C14F020048F4DB /* AddNewRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddNewRecord.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				C22F7C3E18BFE27900D0C36E /* Main.storyboard */,
 				C22F7C6118C11B0C00D0C36E /* TableViewControl.h */,
 				C22F7C6218C11B0C00D0C36E /* TableViewControl.m */,
+				C2DA096718C14F020048F4DB /* AddNewRecord.h */,
+				C2DA096818C14F020048F4DB /* AddNewRecord.m */,
 				C22F7C4118BFE27900D0C36E /* TempViewController.h */,
 				C22F7C4218BFE27900D0C36E /* TempViewController.m */,
 				C22F7C4418BFE27900D0C36E /* Images.xcassets */,
@@ -257,6 +262,7 @@
 			files = (
 				C22F7C3D18BFE27900D0C36E /* TempAppDelegate.m in Sources */,
 				C22F7C6318C11B0C00D0C36E /* TableViewControl.m in Sources */,
+				C2DA096918C14F020048F4DB /* AddNewRecord.m in Sources */,
 				C22F7C3918BFE27900D0C36E /* main.m in Sources */,
 				C22F7C4318BFE27900D0C36E /* TempViewController.m in Sources */,
 			);
