@@ -22,7 +22,6 @@
 		C22F7C5618BFE27900D0C36E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C22F7C5418BFE27900D0C36E /* InfoPlist.strings */; };
 		C22F7C5818BFE27900D0C36E /* TableViewAelfTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C22F7C5718BFE27900D0C36E /* TableViewAelfTestTests.m */; };
 		C22F7C6318C11B0C00D0C36E /* TableViewControl.m in Sources */ = {isa = PBXBuildFile; fileRef = C22F7C6218C11B0C00D0C36E /* TableViewControl.m */; };
-		C22F7C6818C11E2B00D0C36E /* TableViewControl.xib in Resources */ = {isa = PBXBuildFile; fileRef = C22F7C6618C11E2B00D0C36E /* TableViewControl.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,7 +56,6 @@
 		C22F7C5718BFE27900D0C36E /* TableViewAelfTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewAelfTestTests.m; sourceTree = "<group>"; };
 		C22F7C6118C11B0C00D0C36E /* TableViewControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewControl.h; sourceTree = "<group>"; };
 		C22F7C6218C11B0C00D0C36E /* TableViewControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewControl.m; sourceTree = "<group>"; };
-		C22F7C6618C11E2B00D0C36E /* TableViewControl.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TableViewControl.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,7 +116,6 @@
 			isa = PBXGroup;
 			children = (
 				C22F7C3B18BFE27900D0C36E /* TempAppDelegate.h */,
-				C22F7C6618C11E2B00D0C36E /* TableViewControl.xib */,
 				C22F7C3C18BFE27900D0C36E /* TempAppDelegate.m */,
 				C22F7C3E18BFE27900D0C36E /* Main.storyboard */,
 				C22F7C6118C11B0C00D0C36E /* TableViewControl.h */,
@@ -240,7 +237,6 @@
 				C22F7C4518BFE27900D0C36E /* Images.xcassets in Resources */,
 				C22F7C3718BFE27900D0C36E /* InfoPlist.strings in Resources */,
 				C22F7C4018BFE27900D0C36E /* Main.storyboard in Resources */,
-				C22F7C6818C11E2B00D0C36E /* TableViewControl.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -471,6 +467,7 @@
 				C22F7C5D18BFE27900D0C36E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C22F7C5E18BFE27900D0C36E /* Build configuration list for PBXNativeTarget "TableViewAelfTestTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +476,7 @@
 				C22F7C6018BFE27900D0C36E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
