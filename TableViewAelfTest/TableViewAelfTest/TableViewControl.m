@@ -8,6 +8,7 @@
 
 #import "TableViewControl.h"
 
+
 @interface TableViewControl ()
 
 @end
@@ -25,7 +26,18 @@
 
 
 -(void)addRowForTable{
+//    AddNewRecord *viewForNewRecord = [[AddNewRecord alloc]initWithNibName:@"AddNewRecordView" bundle:nil];
+   
+    UIStoryboard *sb = [UIStoryboard storyboardWithName:@"Main"
+    bundle:nil];
+    AddNewRecord *viewForNewRecord = [sb instantiateViewControllerWithIdentifier:@"AddNewRecordView"];
     
+    
+    
+    viewForNewRecord.title = @"New Record";
+    
+    [viewForNewRecord setDelegate:self];
+    [self.navigationController pushViewController:viewForNewRecord animated:YES];
 }
 
 

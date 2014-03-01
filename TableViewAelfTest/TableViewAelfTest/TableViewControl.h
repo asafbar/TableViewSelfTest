@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AddNewRecord.h"
+
 
 @interface TableViewControl : UITableViewController
-<UITableViewDataSource, UITableViewDelegate>
+<UITableViewDataSource, UITableViewDelegate,addDelegate>
 
 
 @property (strong, nonatomic) NSArray *tableList;
