@@ -24,6 +24,14 @@
     return self;
 }
 
+-(void)userDidEnterRecord:(NSString *)record{
+    NSLog(@"Save data on Table");
+    
+    NSLog(@"Text: %@",record);
+    
+   
+}
+
 
 -(void)addRowForTable{
 //    AddNewRecord *viewForNewRecord = [[AddNewRecord alloc]initWithNibName:@"AddNewRecordView" bundle:nil];

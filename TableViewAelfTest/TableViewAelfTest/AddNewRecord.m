@@ -38,8 +38,11 @@
 }
 
 -(IBAction)textFinished:(UITextField *)sender{
+    NSLog(@"From addNewRecord: %@",self.recordTextFieldText.text);
     [self.recordTextFieldText resignFirstResponder];
     [self.delegate userDidEnterRecord:self.recordTextFieldText.text];
+    
+    
     
 }
 
